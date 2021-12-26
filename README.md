@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/Varun080/stats-preview-card.git)
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://stats-preview-card-001.netlify.app)
 
 ## My process
 
@@ -38,5 +38,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [Varun]https://www.frontendmentor.io/profile/Varun080)
+- Frontend Mentor - [Varun](https://www.frontendmentor.io/profile/Varun080)
 - GitHub - [Varun080](https://github.com/Varun080)
